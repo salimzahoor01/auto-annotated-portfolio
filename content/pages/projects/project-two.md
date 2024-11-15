@@ -4,7 +4,16 @@ title: Kashmir Handloom Bhandar
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  We had the privilege of designing the website for *Kashmir Handloom Bhandar*,
+  the largest and most prestigious brand in Kashmir's handloom industry. This
+  project was an incredible opportunity to showcase the rich heritage and
+  exquisite craftsmanship that the brand represents. Our team focused on
+  creating a platform that reflects their legacy while ensuring a seamless,
+  user-friendly experience for their customers. It was a rewarding challenge to
+  combine modern web aesthetics with the timeless elegance of Kashmir’s handloom
+  artistry, and we’re proud to have contributed to elevating their online
+  presence.
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
