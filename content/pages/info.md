@@ -77,7 +77,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/pexels-cileklipalet-29073488-AGB6z9RNQ0S72ZPO.avif
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
