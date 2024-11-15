@@ -5,10 +5,6 @@ colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: ''
-featuredImage:
-  type: ImageBlock
-  url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
   url: /images/gallery-3.jpg
