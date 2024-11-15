@@ -17,7 +17,7 @@ sections:
       - type: Button
         label: Hire me
         altText: ''
-        url: /
+        url: /salimzahoor42@gmail.com
         showIcon: true
         icon: arrowRight
         iconPosition: right
