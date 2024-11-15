@@ -284,7 +284,7 @@ sections:
 
           **2023**
 
-          *   GOT certified
+          *   Got certified as a developer
 
           **2024**
 
