@@ -13,9 +13,15 @@ sections:
   - type: HeroSection
     title: I'm Salim zahoor
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I am Salim Zahoor, a passionate freelance designer and developer with a
+      knack for crafting innovative digital solutions. My expertise lies in
+      blending creative design with robust development to deliver visually
+      stunning, user-friendly websites and applications. I stay ahead of trends
+      and leverage cutting-edge technologies to ensure every project exceeds
+      expectations. With a strong focus on quality and client satisfaction, I
+      thrive on turning ideas into impactful, functional digital experiences.
+      Whether you need a sleek design, a complex web application, or a complete
+      digital overhaul, I am here to bring your vision to life.
     actions:
       - type: Button
         label: Hire me
