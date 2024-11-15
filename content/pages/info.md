@@ -69,7 +69,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Im-Classy-Pretty-Pink_Post-2-300x300.jpg
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
