@@ -16,10 +16,6 @@ featuredImage:
   type: ImageBlock
   url: /images/2024-reliablity-survey-winners.webp
   altText: ''
-media:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project image
 ---
 I had the privilege of designing the website for *WhatCars*, a prominent foreign client and a leader in the automotive industry. This project stands out as one of the best websites I have ever created, combining cutting-edge design, seamless functionality, and a deep understanding of user needs.
 
