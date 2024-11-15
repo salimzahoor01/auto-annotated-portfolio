@@ -23,6 +23,14 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /9103301705
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-11-15 at 7.34.09 PM.jpeg
