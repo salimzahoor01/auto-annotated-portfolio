@@ -4,7 +4,17 @@ title: One more cool project
 colors: colors-a
 date: '2022-01-22'
 client: Best client
-description: ''
+description: >-
+  I had the privilege of designing a website for *Bloovish*, a premier lipstick
+  brand celebrated for its vibrant colors, high-quality formulas, and
+  long-lasting appeal. The goal was to create a sleek and sophisticated platform
+  that reflects the brand's identity and resonates with its audience. The
+  website showcases *Bloovish's* diverse range of lipsticks, offering users an
+  engaging and intuitive experience to explore products, discover shades, and
+  make purchases seamlessly.  By combining modern design elements with
+  user-friendly functionality, the site highlights the brand's commitment to
+  beauty and elegance. It was a fantastic experience to bring *Bloovish's*
+  vision to life digitally.
 featuredImage:
   type: ImageBlock
   url: /images/Im-Classy-Pretty-Pink_Post-2-300x300.jpg
