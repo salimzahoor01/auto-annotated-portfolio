@@ -10,25 +10,32 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
+  - type: HeroSection
+    title: I'm Salim zahoor
+    subtitle: ' A passionate freelance designer and developer with a knack for crafting innovative digital solutions. My expertise combines creative design with robust development to deliver visually stunning, user-friendly websites and applications. I stay ahead of trends and leverage cutting-edge technologies to ensure every project exceeds expectations. With a strong focus on quality and client satisfaction, I thrive on turning ideas into impactful, functional digital experiences. Whether you need a sleek design, a complex web application, or a complete digital overhaul, I am here to bring your vision to life.'
+    actions:
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/WhatsApp Image 2024-11-15 at 7.34.09 PM.jpeg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-36
           - pb-48
@@ -36,7 +43,7 @@ sections:
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: row
       title:
         textAlign: left
       subtitle:
@@ -45,8 +52,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -84,7 +89,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -127,6 +132,50 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: LabelsSection
+    title: Skills
+    subtitle: The section subtitle
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+        url: ''
+      - type: Label
+        label: React
+        url: ''
+      - type: Label
+        label: Microsoft Office
+        url: ''
+      - type: Label
+        label: Next.js
+        url: ''
+      - type: Label
+        label: Netlify
+        url: ''
+      - type: Label
+        label: Pancakes
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Swift
+        url: ''
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full

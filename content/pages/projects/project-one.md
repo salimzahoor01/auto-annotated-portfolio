@@ -1,29 +1,28 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Whatcars?
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Foreign client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  I had the privilege of designing the website for *WhatCars*, a leading foreign
+  automotive brand. The project stands as one of my best, combining sleek
+  design, advanced features, and intuitive functionality. The site offers an
+  immersive experience with tools like vehicle comparison and a responsive
+  layout, ensuring accessibility across devices. It’s a powerful platform that
+  reflects *WhatCars*' innovation, quality, and global presence, setting a new
+  standard in the automotive industry.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project image
+  url: /images/2024-reliablity-survey-winners.webp
+  altText: ''
 ---
+I had the privilege of designing the website for *WhatCars*, a prominent foreign client and a leader in the automotive industry. This project stands out as one of the best websites I have ever created, combining cutting-edge design, seamless functionality, and a deep understanding of user needs.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The goal was to build a platform that captures the essence of *WhatCars*, showcasing their extensive range of vehicles, innovative features, and commitment to excellence. The website was designed with a modern and dynamic aesthetic, blending stunning visuals with an intuitive layout to provide users with a world-class browsing experience.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+With features like an advanced vehicle search, comparison tools, and immersive media galleries, the site offers visitors a comprehensive way to explore *WhatCars’* offerings. Its responsive design ensures flawless performance across all devices, making it accessible to users anywhere in the world.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+This project was an incredible opportunity to push creative and technical boundaries. Every element, from the sleek interface to the interactive features, was carefully crafted to reflect the brand’s global appeal and dedication to quality. Working with *WhatCars* was not only a rewarding challenge but also a chance to deliver a platform that sets a new standard in the automotive industry.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+I am immensely proud of the final result, as it truly represents the pinnacle of my design and development skills. The *WhatCars* website is more than just a digital space; it’s an engaging experience that connects users to their dream vehicles while highlighting the brand’s innovation and expertise.

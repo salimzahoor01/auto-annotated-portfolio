@@ -27,10 +27,26 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.linkedin.com/in/salim-zahoor-4a831b21a",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
                 "url": "https://twitter.com/netlify",
                 "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/https://www.instagram.com/salimzaahoor?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+                "icon": "instagram",
+                "elementId": ""
             },
             {
                 "type": "Social",
@@ -48,47 +64,27 @@
     },
     "footer": {
         "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Info",
-                "url": "/info",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
-            }
-        ],
+        "primaryLinks": [],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": " 9103301705",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "salimzahoor42@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Kulgam kashmir india 192231",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Copyright salim zahoor 2024\n",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
