@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      I am Salim Zahoor, a passionate freelance designer and developer with a
+      ## I am Salim Zahoor, a passionate freelance designer and developer with a
       knack for crafting innovative digital solutions. My expertise lies in
       blending creative design with robust development to deliver visually
       stunning, user-friendly websites and applications. I stay ahead of trends
