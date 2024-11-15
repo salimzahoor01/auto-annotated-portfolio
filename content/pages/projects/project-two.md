@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Kashmir Handloom Bhandar
 colors: colors-a
-date: ''
+date: '0002-12-05'
 client: Awesome client
 description: >-
   We had the privilege of designing the website for *Kashmir Handloom Bhandar*,
