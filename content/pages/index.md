@@ -203,7 +203,7 @@ sections:
           “Anytime I have a question, I know I can get in touch with Doris. She
           always helps me adjust my site to look as perfect as I’d hoped.”
         name: Johnna Doe
-        title: Product Marketing Manager at Acme
+        title: Product Marketing Manager at Bloovish
         elementId: ''
         styles:
           name:
