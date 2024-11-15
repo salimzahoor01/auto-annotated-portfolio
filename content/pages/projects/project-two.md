@@ -11,6 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   altText: Project thumbnail image
+  url: /images/pexels-cileklipalet-29073488-AGB6z9RNQ0S72ZPO.avif
 media:
   type: ImageBlock
   url: /images/bg2.jpg
