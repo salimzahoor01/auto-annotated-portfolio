@@ -4,7 +4,14 @@ title: A very cool code project
 colors: colors-a
 date: '2021-10-15'
 client: Foreign client
-description: ''
+description: >-
+  I had the privilege of designing the website for *WhatCars*, a leading foreign
+  automotive brand. The project stands as one of my best, combining sleek
+  design, advanced features, and intuitive functionality. The site offers an
+  immersive experience with tools like vehicle comparison and a responsive
+  layout, ensuring accessibility across devices. It’s a powerful platform that
+  reflects *WhatCars*' innovation, quality, and global presence, setting a new
+  standard in the automotive industry.
 featuredImage:
   type: ImageBlock
   url: /images/2024-reliablity-survey-winners.webp
