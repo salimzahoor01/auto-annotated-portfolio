@@ -23,6 +23,7 @@ media:
   url: /images/bg2.jpg
   altText: Project image
 metaTitle: Kashmir handloom bhandar
+metaDescription: Dastkari
 ---
 We had the honor of designing the website for *Kashmir Handloom Bhandar*, the biggest and most prestigious brand in Kashmir's handloom industry. Known for its rich legacy and unparalleled craftsmanship, this iconic brand specializes in a wide variety of traditional and contemporary handloom products, including shawls, suits, sarees, blankets, stoles, and handmade bags. Each item reflects the timeless beauty and cultural richness of Kashmir, making the brand a symbol of quality and authenticity.
 
