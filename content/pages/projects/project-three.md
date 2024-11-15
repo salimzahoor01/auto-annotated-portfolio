@@ -19,6 +19,7 @@ featuredImage:
   type: ImageBlock
   url: /images/Im-Classy-Pretty-Pink_Post-2-300x300.jpg
   altText: Project thumbnail image
+metaTitle: bloovish
 ---
 I had the exciting opportunity to design a website for *Bloovish*, a leading lipstick brand known for its vibrant shades, premium quality, and long-lasting wear. This project was all about creating a digital presence that embodies the brand's commitment to beauty, style, and innovation. The website was designed to captivate visitors with its elegance while providing a seamless user experience.
 
