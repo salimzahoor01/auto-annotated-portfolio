@@ -13,11 +13,17 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      I am Salim Zahoor, a passionate freelance designer and developer with a
+      knack for crafting innovative digital solutions. My expertise lies in
+      blending creative design with robust development to deliver visually
+      stunning, user-friendly websites and applications. I stay ahead of trends
+      and leverage cutting-edge technologies to ensure every project exceeds
+      expectations. With a strong focus on quality and client satisfaction, I
+      thrive on turning ideas into impactful, functional digital experiences.
+      Whether you need a sleek design, a complex web application, or a complete
+      digital overhaul, I am here to bring your vision to life.
+
     media:
       type: ImageBlock
       url: /images/about.jpg
