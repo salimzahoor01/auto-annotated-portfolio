@@ -17,11 +17,19 @@ sections:
       - type: Button
         label: Hire me
         altText: ''
-        url: /
+        url: /salimzahoor42@gmail.com
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /9103301705
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         elementId: ''
     media:
       type: ImageBlock
@@ -176,6 +184,49 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >
+          "Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        name: Iqbal Hussain
+        title: Owner at Kashmir Handloom Bhandar
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: >
+          “Anytime I have a question, I know I can get in touch with WhatCars.
+          She always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at WhatCars?
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-b
+    variant: variant-a
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -214,7 +265,7 @@ sections:
           type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
-          isRequired: false
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
