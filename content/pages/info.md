@@ -80,10 +80,6 @@ sections:
         url: /images/pexels-cileklipalet-29073488-AGB6z9RNQ0S72ZPO.avif
         altText: Logo three
         caption: Logo three
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
