@@ -11,7 +11,7 @@ description: >-
 featuredImage:
   type: ImageBlock
   url: /images/2024-reliablity-survey-winners.webp
-  altText: Project thumbnail image
+  altText: ''
 media:
   type: ImageBlock
   url: /images/bg1.jpg
