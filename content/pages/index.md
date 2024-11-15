@@ -222,7 +222,7 @@ sections:
           type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
-          isRequired: false
+          isRequired: true
           width: full
           type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
