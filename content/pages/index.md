@@ -191,7 +191,7 @@ sections:
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: Iqbal Hussain
-        title: CEO at Parks
+        title: Owner at Kashmir Handloom Bhandar
         elementId: ''
         styles:
           name:
