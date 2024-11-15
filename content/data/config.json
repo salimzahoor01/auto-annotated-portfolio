@@ -34,14 +34,6 @@
             },
             {
                 "type": "Social",
-                "label": "Facebook",
-                "altText": "",
-                "url": "/https://github.com/salimzahoor01/auto-annotated-portfolio",
-                "icon": "github",
-                "elementId": ""
-            },
-            {
-                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/netlify-templates",
